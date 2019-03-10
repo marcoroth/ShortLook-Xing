@@ -1,0 +1,9 @@
+Package: ch.marcoroth.shortlook.plugin.contact-photo.xing
+Name: Xing Profile Pictures for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show Xing users' profile pictures in ShortLook when you receive a Xing notification!
+Maintainer: Marco Roth
+Author: Marco Roth
+Section: Tweaks (ShortLook)
